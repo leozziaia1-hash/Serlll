@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de optimización técnica y corrección de bugs para el Circuito 2 (Speedway GP), enfocado en la física de colisiones del pit wall, detección robusta de vuelta rápida a 358 km/h, eliminación de Z-fighting en asfalto y líneas, corrección del sector fantasma en la IA y preservación de la carrera clásica sin DRS con atmósfera atmosférica actual.",
+  "updatedAt": "2026-10-14T20:42:43.432239388Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
